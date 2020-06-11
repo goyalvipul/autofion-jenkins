@@ -8,6 +8,7 @@ public class App {
 public String getAccountName(){
 			return "QATester";
 }
+	
 public int  addAccount(int a,int b){
 		
 	int c= a+b;
